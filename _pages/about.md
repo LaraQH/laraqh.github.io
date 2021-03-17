@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 
-Hi, I am Carlos.  
+Hello!
 
-Recently I did a MSc in Meteorology at University of Barcelona and currently I am studying a MSc in Geographic Information Science and Remote Sensing at University of Zaragoza.
+My name is Lara Quitián.  
 
-The focus of my research is on severe convective storms (SCS) in Spain, specially supercells storms, aimed at analysing climatological and physical processes that favor their formation such as convective environments or the influence of synoptic patterns. 
+I'm a Physicist with a MSc on Meteorology and Geophysics by the Complutense University of Madrid. I'm currently doing my Ph.D on hurricane transitions and its modeling on the Eastern North Atlantic. I'm experienced researcher in meteorology and high-performance computing (WRF and HARMONIE-AROME model) with expertise ranging from the simulation and analysis of subtropical cyclones (STCs) to the study of the transitions they undergo. Moreover, I am working in parallel on two additional scientific areas: icing aircraft formation and Martian meteorology.
 
-You can find some of my current projects here: [https://github.com/ccalvosa](https://github.com/ccalvosa)
+I am passionate about improving forecasting models, global weather analysis, and risk mitigation. In addition, a better understanding of the formation of STCs, taking into account the key role played by anthropogenic climate change (ACC) in their intensity, becomes essential due to the large economic and social damages they cause.
+
+You can find some of my current projects here: [https://github.com/laraqh](https://github.com/laraqh)
   
 
 
